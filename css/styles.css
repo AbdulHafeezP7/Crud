@@ -1,0 +1,9 @@
+img{
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+.logo {
+    width: 50px; 
+    height: auto; 
+}
